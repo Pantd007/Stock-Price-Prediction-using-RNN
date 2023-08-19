@@ -1,6 +1,6 @@
 """
 Fetch the daily stock prices from Google Finance for stocks in S & P 500.
-@author: lilianweng
+@author: 22m0035@iitb.ac.in
 """
 import click
 import os
