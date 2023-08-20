@@ -30,7 +30,7 @@ tensorboard --logdir ./logs --port 1234 --debug
 ```
 
 My python environment: 
-Python version == 3
+Python version == 3.5
 ```
 BeautifulSoup==3.2.1
 numpy==1.13.1
